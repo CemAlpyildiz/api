@@ -1,5 +1,9 @@
 ALPYILDIZ Cem
 
+# BDD
+
+Pensez à changer l'identifiant et le mdp de la bdd
+
 # Setup
 
 ## Nest JS installation
